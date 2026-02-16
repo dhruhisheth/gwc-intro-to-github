@@ -1,6 +1,18 @@
-\section*{Personal Portfolio Website}
+# 🌐 Personal Portfolio Website
 
-\textbf{Author:} Dhruhi Sheth
+**Author:** Dhruhi Sheth  
 
-This portfolio website showcases a basic static web page created using HTML and CSS.  
-The project also demonstrates version control using Git and GitHub, including branching and pull request workflows.
+## 📌 Project Overview
+This is a simple static portfolio website built using HTML and CSS.
+
+## 🚀 Features
+- Clean responsive layout
+- Basic styling with CSS
+- Version control using Git
+- Branching and Pull Request workflow
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- Git
+- GitHub
